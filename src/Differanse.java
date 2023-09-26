@@ -40,5 +40,5 @@ public class Differanse {
 
 System.out.println("Differance is "+Differanse(number));
 
-    }
+    }git
 }
